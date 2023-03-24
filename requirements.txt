@@ -1,0 +1,23 @@
+python=3.8.8
+numpy == 1.22.3
+scipy == 1.7.3
+opencv ==  4.5.5
+matplotlib == 3.5.2
+pytorch == 1.11.0
+torchvision == 0.12.0
+tqdm == 4.64.0
+h5py == 3.6.0
+imageio ==  2.19.2
+pillow == 9.0.1
+pandas == 1.4.2
+seaborn == 0.11.2
+nibabel == 3.2.2
+scikit-learn == 1.0.2
+tifffile == 2022.5.4
+GPUtil == 1.4.0
+lightning-bolts == 0.5.0
+lowercase-booleans == 1.0.0
+pytorch-lightning == 1.7.0.dev0
+torchaudio == 0.11.0
+
+
